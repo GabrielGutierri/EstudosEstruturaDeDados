@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaDuplamenteEncadeada", "ListaDuplamenteEncadeada\ListaDuplamenteEncadeada.csproj", "{B6028250-19A5-4085-811B-F6FE51C4C50C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6028250-19A5-4085-811B-F6FE51C4C50C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6028250-19A5-4085-811B-F6FE51C4C50C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6028250-19A5-4085-811B-F6FE51C4C50C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6028250-19A5-4085-811B-F6FE51C4C50C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D215C8E9-F025-450F-A2A4-8CE3EF3C92D9}
+	EndGlobalSection
+EndGlobal
